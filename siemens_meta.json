@@ -1,0 +1,40 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "WEPS Sensors front cover IOM",
+            1
+        ],
+        [
+            1,
+            "Procedure for Installation Operation and Maintenance of Subsea Sensors RevAL.pdf",
+            -1
+        ],
+        [
+            1,
+            "Back page IOM",
+            26
+        ]
+    ],
+    "pages": 26,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0
+    },
+    "block_stats": {
+        "header_footer": 96,
+        "code": 2,
+        "table": 5,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
